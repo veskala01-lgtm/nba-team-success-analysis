@@ -1,4 +1,4 @@
-# NBA Defense Analysis - 2025-26 Season
+# Evaluating the Impact of Defensive Efficiency on NBA Team Success (2025-2026 Season)
 
 An empirical analysis of whether defensive performance 
 is as influential as offensive performance in determining 
