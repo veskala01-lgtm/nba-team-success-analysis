@@ -29,3 +29,11 @@ achieved the greatest long-term success during the 2025–26 NBA regular season.
 
 ## Tools
 Python, pandas, matplotlib, numpy, statsmodels, nba_api
+
+## Methods Used
+Correlation Analysis,
+Multiple Linear Regression,
+Net Rating Analysis,
+Defensive Metrics Evaluation,
+Spearman Rank Correlation Analysis,
+Data Visualization
