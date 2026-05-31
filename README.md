@@ -1,5 +1,7 @@
 # Evaluating the Impact of Defensive Efficiency on NBA Team Success (2025-2026 Season)
 
+**Author:** Vikas Eskala
+
 An empirical analysis of whether defensive performance 
 is as influential as offensive performance in determining 
 NBA team success, inspired by Victor Wembanyama's claim 
